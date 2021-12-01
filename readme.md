@@ -2,15 +2,15 @@
 
 This code enables remote control via a webpage of a LED light strip, perfect for ambient lighting applications such as home, van, shed, etc. Can support multiple light strips.
 
-![vid-1](/Users/Jonny/Desktop/SmartLight/vid-1.gif)
+![vid-1](./vid-1.gif)
 
 It can be controlled via a web page.
 
-![vid-2](/Users/Jonny/Desktop/SmartLight/vid-2.gif)
+![vid-2](./vid-2.gif)
 
 Beautiful animations :-).
 
-![img-1](/Users/Jonny/Desktop/SmartLight/img-1.jpg)
+![img-1](./img-1.jpg)
 
 Or just set the mood!
 
